@@ -3,7 +3,7 @@
 Me chamo Isabela Linhares<br/>
 
 - 👩‍💻Sou academica de Ciência da Computação no IFCE- Campus Aracati<br/>
-- 🌱 Atualmente também estou aprendendo Full-Stack<br/>
+- 🌱 Atualmente também estou aprendendo Desenvolvimento Web <br/>
 
 
 # 💻 Tech Stack:
