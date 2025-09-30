@@ -1,8 +1,7 @@
 # 💫 Bem vindo(a) ao meu GitHub 
-<Me chamo Isabela Linhares<br>
+Me chamo Isabela Linhares!<br>
 <br>- 👩‍💻Sou academica de Ciência da Computação no IFCE- Campus Aracati<br>
--🌱 Atualmente estou aprendendo POO<br>
-- 📚 Interessada em estudar cada vez mais o mundo da programação
+-🌱 Atualmente estou aprendendo POO<br>- 📚 Interessada em estudar cada vez mais o mundo da programação
 
 
 # 💻 Tech Stack:
